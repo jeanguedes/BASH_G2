@@ -1,4 +1,8 @@
 #!/bin/bash
+#Desenvolvido por: Jean Guedes - Aluno do Curso de Redes de Computadores
+#Desenvolvido em: 08/12/2018
+#Data ultima Alteracao: 10/12/2018
+
 
 function scp_local_remoto () {
 	dialog --title 'Implentacao - SCP Local -> Remoto' --msgbox 'Implementaremos o SCP Local -> Remoto!' 20 60
